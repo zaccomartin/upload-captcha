@@ -5,4 +5,4 @@ Programa que utiliza una verificacion por captcha, para cargar una imagen direct
 
 El captcha es una imagen dibujada con PHP la cual tiene una variable "$valoraleatorio" que pasa por una sesion "['numeroaleatorio']"
 
-El front-end esta desarrollado en HTML, javascript, bootstrap 3.3 para una agradable interfaz.
+El front-end esta desarrollado en HTML, javascript, CSS, bootstrap 3.3 para una agradable interfaz.
