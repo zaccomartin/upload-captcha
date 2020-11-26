@@ -12,10 +12,9 @@ session_start();
 
 <body id="page-top" class="index">
 
-    <!-- Navigation -->
+    
     <nav class="navbar navbar-default navbar-fixed-top navbar-shrink">
         <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
@@ -26,7 +25,7 @@ session_start();
                 <a class="navbar-brand page-scroll" href="#page-top">zaccomartin@gmail.com</a>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
+            
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden active">
@@ -49,9 +48,9 @@ session_start();
                     </li>
                 </ul>
             </div>
-            <!-- /.navbar-collapse -->
+            
         </div>
-        <!-- /.container-fluid -->
+       
     </nav>
 
     <!-- Header -->
